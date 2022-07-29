@@ -1,6 +1,6 @@
 const skills = [
   {
-  type: 'FrontEnd',
+  type: 'Frontend',
   items: [
       {
         image: 'html',
@@ -37,7 +37,7 @@ const skills = [
     ],
   },
   {
-    type: 'BackEnd',
+    type: 'Backend',
     items: [
       {
         image: 'php',
