@@ -12,11 +12,11 @@ const LayoutCard = styled(Card)`
   min-height: 80vh;
   background-color: #fff;
 
-  @media (max-width: 800px) {
+  @media (max-width: 768px) {
     padding: 30px 24px;
-    margin: 5vh auto;
+    margin: 0;
     width: 100%;
-    min-height: 90vh;
+    min-height: 100vh;
   }
 `;
 

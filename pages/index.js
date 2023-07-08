@@ -26,7 +26,7 @@ const Main = styled.main`
     }
   }
 
-  @media (max-width: 800px) {
+  @media (max-width: 768px) {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
