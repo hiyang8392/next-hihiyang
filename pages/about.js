@@ -19,7 +19,7 @@ const Main = styled.main`
     opacity: 0.7;
   }
 
-  @media (max-width: 800px) {
+  @media (max-width: 768px) {
     margin: 10px 0;
 
     h2 {
@@ -41,7 +41,7 @@ const Group = styled.div`
     display: none;
   }
 
-  @media (max-width: 800px) {
+  @media (max-width: 768px) {
     flex-direction: column;
     height: 100%;
     overflow: initial;

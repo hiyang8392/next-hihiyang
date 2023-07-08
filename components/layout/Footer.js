@@ -35,7 +35,7 @@ const Footer = () => {
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/yang78392" target="_blank" rel="noreferrer">
+          <a href="https://www.instagram.com/hiyang8392" target="_blank" rel="noreferrer">
             <div className = "icon"><FaInstagramSquare /></div>
           </a>
           </li>
