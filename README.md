@@ -2,7 +2,7 @@
 
 ### demo
 
-<a target="_blank" href="https://www.hihiyang.com">https://www.hihiyang.com</a>
+<a target="_blank" href="https://www.hihiyang.com">https://www.yangisgood.com</a>
 
 ![demo image](https://imgur.com/5DVQwKx.jpg)
 
